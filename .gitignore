@@ -5,9 +5,10 @@
 *.msi
 *.zip
 *.tgz
-*.log
+*.log 
 *.log.*
 *.sig
 
 pkg/
 src/
+test
